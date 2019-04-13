@@ -1,0 +1,30 @@
+/* 
+* Tatiana Mendez
+* April 12, 2019
+* Dobermann Pinschers are the best breed
+*/
+
+/* The universal selector */
+
+* {
+
+}
+
+/* Body properties here */
+
+body {
+    background-color: lightyellow; /*background color*/
+    font-family: "Arial Black", sans-serif; /*font selector*/
+    width: 85%;
+    margin: auto;
+}
+
+header { background-color: lightcoral; } /*background color for the header*/
+
+main { background-color: lightpink; } /*background color for the main*/
+
+nav { background-color: lightsalmon; } /*background color for the nav*/
+
+footer { background-color: palevioletred; } /*background color for the footer*/
+
+#Apollo {width:250px; height:400px;}
